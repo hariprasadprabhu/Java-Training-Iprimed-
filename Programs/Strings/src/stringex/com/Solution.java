@@ -13,7 +13,7 @@ public class Solution {
 		System.out.println("-----------------------------------------------------");
 		String str3 = "Rakesh";
 		System.out.println(str3);
-		str3.
+		
 
 	}
 
