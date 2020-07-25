@@ -139,6 +139,10 @@ class Child extends Parent {
 	{
 		System.out.println("Book name"+"Wings of fire");
 	}
+	void dress()
+	{
+		System.out.println("dress");
+	}
 }
 
 
@@ -148,6 +152,13 @@ public class InheritExample {
 		Child c = new Child();
 		c.Bike();
 		c.Book();
+		
+		Parent p =new Child();//Upcasting comes under polymorphism
+		p.Bike();
+		// this can access everything from parent and only overriden method from child
+		
+		Parent p1 =new Child();
+		((Child) p1).dress();//down casting comes under polymorphism
 		
 	}
 }
