@@ -1,14 +1,22 @@
 package dog.com;
 
+import java.util.Scanner;
+
 public class Solution {
 
 	public static void main(String[] args) {
-		Dog d = new	Dog("Tommy",4,"Lab");
-		d.dislay();
-		
-		Dog d1 = new	Dog();
-		d1.dislay();
-
+		String iMEICode,processor,manufactrer,isSingleSim;
+	    double price;
+	    boolean bb;
+	  Scanner s=new Scanner(System.in);
+	  for(int i=0;i<1;i++)
+	  {
+		  iMEICode=s.next();
+		  isSingleSim=s.next();
+		  processor=s.next();
+		  price=s.nextDouble();
+		  
+	  }
 	}
 
 }
