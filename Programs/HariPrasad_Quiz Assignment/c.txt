@@ -1,0 +1,60 @@
+What is the size of ‘int’?
+a) 2
+b) 3
+c) 8
+d) Compiler dependent
+d
+Following is the invalid inclusion of a file to the current program. Identify it.
+a) #include <file>
+b) #include “file”
+c) #include < file
+d) All of the above are invalid.
+c
+Choose the invalid predefined macro as per ANSI C.
+a) __FILE__
+b) __DATE__
+c) __TIME__
+d) __C++__
+d
+In C, what are the various types of real data type (floating point data type)?
+a) Float, long double
+b) long double, short int
+c) float, double, long double
+d) short int, double, long int, float
+c
+Which of the following is a logical OR operator?
+a) &
+b) &&
+c) ||
+d) None of the above
+c
+Which statement can print \n on the screen?
+a) printf("\\n");
+b) printf("n\");
+c) printf("n");
+d) printf('\n');
+a
+Correct way of commenting a single line is.?
+a) /*printf("Hello C..");
+b) //printf("Hello C..");
+c) /*printf("Hello C..");/
+d) /printf("Hello C..");/
+b
+What is an Identifier in C Language.?
+a) Name of a Function or Variable
+b) Name of a Macros
+c) Name of Structure or Union
+d) All the above.
+d
+What is the number of characters used to distinguish Identifier or Names of Functions and Global variables.?
+a) 31
+b) 32
+c) 33
+d) 28
+a
+An Identifier can start with.?
+a) Alphabet
+b) Underscore ( _ ) sign
+c) Any character that can be typed on a keyboard
+d) Option A & Option B
+d

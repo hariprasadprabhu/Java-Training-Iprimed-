@@ -1,0 +1,60 @@
+‘cin’ is an __
+a) Class
+b) Object
+c) Package
+d) Namespace
+b
+Runtime polymorphism is done using.
+a) Function overloading
+b) Virtual classes
+c) Virtual functions
+d) Friend function
+c
+How can we make an class act as an interface in C++?
+a) By only providing all the functions as virtual functions in the class
+b) Defining the class following with the keyword virtual
+c) Defining the class following with the keyword interface
+d) Defining the class following with the keyword abstract
+a
+Which operator is used to resolve the scope of the global variable?
+a) ->
+b) .
+c) *
+d) ::
+d
+Choose the option not applicable for the constructor.
+a) Cannot be called explicitly.
+b) Cannot be overloaded.
+c) Cannot be overridden
+d) None of the above.
+c
+What is the size of ‘int’?
+a) 2
+b) 4
+c) 8
+d) Compiler dependent
+d
+Special symbol permitted with in the identifier name.
+a) &
+b) @
+c) _
+d) .
+c
+Constant variables can be created in CPP by using ________ .
+a) enum
+b) const
+c) #define
+d) All of these
+d
+Object oriented programming employs_________ programming approach.
+a) top-down
+b) procedural
+c) bottom-up
+d) all of these.
+c
+In CPP, cin and cout are the predefined stream __________ .
+a) Operator
+b) Functions
+c) Objects
+d) Data types
+c

@@ -13,7 +13,7 @@ public class RegularExpression {
 		Matcher m2 =p.matcher("af");
 		boolean b1 = m1.matches();
 		boolean b2 = m2.matches();
-		System.out.println(b1+"\n"+b2);
+		/*System.out.println(b1+"\n"+b2);
 		System.out.println(Pattern.compile(".a").matcher("1a").matches());
 		System.out.println(Pattern.matches("^ab*", "abbbbb"));//start with a
 		System.out.println(Pattern.matches("[abc]", "a"));
@@ -29,8 +29,8 @@ public class RegularExpression {
 		System.out.println(Pattern.matches("\\D*", "Adsd")); // search any char
 		System.out.println(Pattern.matches("[a-z]*\s", "abab "));//spacing
 		System.out.println(Pattern.matches("[a-zA-Z0-9]{4}", "abcd"));// 4 char should be there
-		System.out.println(Pattern.matches("[91]{2}[0-9]{10}", "919980598756"));
-		System.out.println(Pattern.matches("[91]\\d{10}", "99980598756"));//9 or 1 then any digit 10 times
+		System.out.println(Pattern.matches("[91]{2}[0-9]{10}", "919980598756"));*/
+		System.out.println(Pattern.matches("[a-zA-Z0-9]+@[a-zA-Z]+[.][a-zA-Z]*", "a@gmaild.com"));//9 or 1 then any digit 10 times
 		
 	}
 }
