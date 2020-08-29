@@ -11,7 +11,7 @@ public class DateTimeEx {
 		
 		//using SimpleDateFormate examples
 		java.util.Date date =Calendar.getInstance().getTime();
-		DateFormat dateformat = new SimpleDateFormat("YYYY-MM-dd");
+		DateFormat dateformat = new SimpleDateFormat("yyyy-MM-dd");
 		System.out.println(dateformat.format(date));
 		
 		//---------------------------------------

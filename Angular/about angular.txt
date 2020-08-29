@@ -1,0 +1,53 @@
+why amgular framework?
+=> 2010 angular js
+	suppported web, mobile application
+	html css js --- also we use jsp servlets spring and any database at backend
+
+=> once load and store as a cachte so faster
+=> 2016	angular ts
+	much most faster than previous version
+	compile time we can get error because of ts
+=> 2017 angular ts 4.0 	
+	
+=> front end dinamically changing with user interaction
+
+------------------------------
+Advantages		
+-------------------------------
+SPA(single page oriented
+Component oriented
+fast
+controller may be anything
+Module (having own css html etc. with own operations)
+independent components
+MV*
+
+Installation
+-------------
+>npm install -g @angular/cli
+>ng --version
+>ng new my-app(should be small letter and dash is optional)
+>ng s
+>ng serve --port 5000 or ng serve
+>ng serve --open  or -o
+
+Creating component
+------------------
+(inside src/app)
+>ng generate component mycomp
+or
+>ng gc mycomp
+
+component
+	1)html
+	2)css
+	3)ts
+	4)spec.ts
+
+data-binding
+------------
+one way binding---->Interpolation(ts to html(template)) {{}}
+		    Peoperty binding (ts to template)   []
+		    event binding  (template to ts)     ()
+
+Two way binding---->ngModel----->(template to component and vise versa)[()]

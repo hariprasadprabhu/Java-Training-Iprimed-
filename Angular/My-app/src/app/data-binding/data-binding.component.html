@@ -1,0 +1,14 @@
+<h1>value binding</h1>
+<p>{{bank}} is started in year {{year}} and running successfully</p>
+<p>Welcome to SBI bank is having sever issue</p>
+<p>{{bank}} is now at Gujarath</p>
+<br>
+<br>    
+<H1>property binding</H1>
+<input type="text" id="myid"  [placeholder]="name" #my><!-- Local aliases --><h1>{{isavail}}</h1>
+<br><br>
+<input [type]="property" id="myid"  value="Click here" [disabled]="trueOrFalse" (click)="goto(my.value)">
+
+<hr>
+<h2>Two way binding </h2>
+<input type="text" [(ngModel)]="login" #myy>{{login}}

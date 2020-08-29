@@ -1,0 +1,15 @@
+Angular JS==> completely use java script (older vertion 1st vertion)
+
+Angular 2.x onwords use typescript
+
+Single page application (SPA)
+Redirecting time is less
+Model View Architecture
+Command line interface
+
+MV*
+
+Install Angular In CLI
+----------------------
+
+>npm install -g @angular/cli

@@ -1,0 +1,77 @@
+Enter 
+1-->create new author
+2-->insert a book
+3-->Update price for books
+4-->Display books
+5-->Exit
+1
+Please Enter Below Details
+Enter First name:chethan
+Enter Middle name ( Enter * if Nothing to Fill) :chand
+Enter Last name :bhagath
+Enter Phone number :9999999999
+New author's details inserted
+
+Enter 
+1-->create new author
+2-->insert a book
+3-->Update price for books
+4-->Display books
+5-->Exit
+2
+Enter Book Name:Half girl friend
+Enter book Price :200
+select the name of Author from below list who wrote this book or press N/n to create a new Author
+sudeep
+hari
+ap
+darshan
+chethan
+chethan
+Inserted book successfully
+
+Enter 
+1-->create new author
+2-->insert a book
+3-->Update price for books
+4-->Display books
+5-->Exit
+3
+Enter the name of Author from below list whos book's price should be updated
+sudeep
+hari
+ap
+darshan
+chethan
+chethan
+Enter the amount you want to set for all the books of this authoer
+500
+Price updated
+
+Enter 
+1-->create new author
+2-->insert a book
+3-->Update price for books
+4-->Display books
+5-->Exit
+4
+select the name of Author from below list whos books you want to see
+sudeep
+hari
+ap
+darshan
+chethan
+chethan
+---------------------------------------
+Name		                price
+---------------------------------------
+Half girl friend		500
+
+Enter 
+1-->create new author
+2-->insert a book
+3-->Update price for books
+4-->Display books
+5-->Exit
+5
+........thank you........

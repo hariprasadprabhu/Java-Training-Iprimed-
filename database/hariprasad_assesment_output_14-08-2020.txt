@@ -1,0 +1,107 @@
+enter user name (email):
+hari123@gmail.com
+enter password:
+123
+Sorry Please enter a valid name and password
+enter user name (email):
+hari123@gmail.com
+enter password:
+ha12
+loggin success:::
+press 
+1-->Insert
+2-->Update
+3-->Delete
+4-->Display
+5-->Exit
+1
+enter name:
+rajes
+enter password :
+raju123
+enter designation :
+ceo
+enter date in YYYY/MM/DD form :
+1999/04/20
+enter email :
+raju@gmail.com
+provide a proper email
+enter email :
+raju123@gmail.com
+Inserted
+press 
+1-->Insert
+2-->Update
+3-->Delete
+4-->Display
+5-->Exit
+2
+enter Id who details want to change :
+34
+enter name :
+harisha
+enter password :
+harish123
+enter designation :
+se
+enter date in YYYY/MM/DD form :
+2020/07/19
+enter email :
+harish123@gmail.com
+Updated
+press 
+1-->Insert
+2-->Update
+3-->Delete
+4-->Display
+5-->Exit
+4
+-------------------------------------------------------------------------------------------
+ID	Name	Designation   	Hire Date   	Emai
+-------------------------------------------------------------------------------------------
+35	rajes	ceo		1999/04/20	raju123@gmail.com
+-------------------------------------------------------------------------------------------
+33	savyy	sd		2020/06/10	savyj123@gmail.com
+-------------------------------------------------------------------------------------------
+25	hari	de		2020/02/20	as123@gah.com
+-------------------------------------------------------------------------------------------
+32	savy	sa		2020/10/02	savy123@gmail.com
+-------------------------------------------------------------------------------------------
+34	harisha	se		2020/07/19	harish123@gmail.com
+-------------------------------------------------------------------------------------------
+press 
+1-->Insert
+2-->Update
+3-->Delete
+4-->Display
+5-->Exit
+3
+enter id you want to delete :
+32
+Deleted
+press 
+1-->Insert
+2-->Update
+3-->Delete
+4-->Display
+5-->Exit
+4
+-------------------------------------------------------------------------------------------
+ID	Name	Designation   	Hire Date   	Emai
+-------------------------------------------------------------------------------------------
+35	rajes	ceo		1999/04/20	raju123@gmail.com
+-------------------------------------------------------------------------------------------
+33	savyy	sd		2020/06/10	savyj123@gmail.com
+-------------------------------------------------------------------------------------------
+25	hari	de		2020/02/20	as123@gah.com
+-------------------------------------------------------------------------------------------
+34	harisha	se		2020/07/19	harish123@gmail.com
+-------------------------------------------------------------------------------------------
+press 
+1-->Insert
+2-->Update
+3-->Delete
+4-->Display
+5-->Exit
+5
+........thank you........
